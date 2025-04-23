@@ -1,6 +1,7 @@
+import Models.Book;
+
 public class App {
     public static void main(String[] args) throws Exception {
-
         Book[] books = {
                 new Book("Clean Code", 2008),
                 new Book("The Pragmatic Programmer", 1999),
